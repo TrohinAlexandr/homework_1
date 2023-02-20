@@ -2,6 +2,8 @@ import java.util.Scanner;
 
 public class Main {
     public static void main (String[] args) {
+        System.out.println("Трохин Александр Андреевич");
+        System.out.println("Группа РИБО-01-21, вариант 4"); 
         task4();
     }
 
